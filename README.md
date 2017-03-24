@@ -1,4 +1,6 @@
 # LearningLocker on CentOS 7.3
+
+## ** THIS IS A WORK IN PROGRESS. PLEASE DO NOT USE THIS, AND INSTEAD REFER TO DAVID PESCE'S ORIGINAL REP **
  gmram
 
  This is straight fork of David Pesce's development environment for LL. I have forked it so I can experiment. If you need to install LL  on CentOS (I've done it on a DO droplet), please please refer to https://github.com/davidpesce/learninglocker-v1-dev-env for the instructions. 
